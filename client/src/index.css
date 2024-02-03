@@ -1,0 +1,35 @@
+body{
+	background-color: #3480CB;
+}
+.TransactionForm{
+	display: flex;
+	flex-direction: row;
+	
+}
+.TransactionForm > .child
+{
+	margin-left: 10px;
+}
+.TransactionForm .child:last-child {
+	margin-bottom: 10px;
+}
+.Login{
+	color: antiquewhite;
+	text-decoration: none;
+}
+.Expensor{
+	color: antiquewhite;
+	text-decoration: none;
+}
+.Register{
+	color: antiquewhite;
+	text-decoration: none;
+}
+.LoginLink{
+	text-decoration: none;
+	color: #3480CB;
+}
+.RegisterLink{
+	text-decoration: none;
+	color: #3480CB;
+}
